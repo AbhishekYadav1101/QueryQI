@@ -42,7 +42,8 @@ By combining Weaviate's similarity search with OpenAI's natural language process
 
 ### Architectural diagram 
 
-![Alt text](image.png)
+![image](https://github.com/fAwkes1101/QueryQI/assets/142393903/0bedfadc-f035-4ca5-b8e8-ccd4002a2488)
+
 
 ### Application Structure
 
