@@ -40,6 +40,9 @@ The Query QL Application enhances the search experience by integrating **OpenAI*
 
 By combining Weaviate's similarity search with OpenAI's natural language processing capabilities, the Query QL Application provides a powerful solution for obtaining relevant information from the vector store.
 
+### Architectural diagram 
+
+![Alt text](image.png)
 
 ### Application Structure
 
