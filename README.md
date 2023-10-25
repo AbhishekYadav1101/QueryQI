@@ -1,5 +1,7 @@
 # Query QL Application
 
+## Demo : https://drive.google.com/file/d/1saR9owubPY-PRlmHXKil2bkp7NUD8uiD/view?usp=sharing
+
 ## Problem Statement
 
 The Query QL Application aims to simplify the process of searching for the most relevant results using similarity search in Weaviate's vector store. While Weaviate offers the ability to query the vector store using GraphQL, it can be challenging for programmers and clients with no prior knowledge of GraphQL. This application provides an easier way to query the vector store, obtain similarity results, and further refine and summarize those results using OpenAI's natural language processing capabilities.
